@@ -1,15 +1,15 @@
 {
-  "enabled": false,
+  "enabled": true,
   "promos": [
     {
       "id": "mygame1",
-      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/1.jpg",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame1"
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/789bingoahmed1/refs/heads/main/Designing_app_cross_promo_card_202609020518.jpeg",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.royaldreamonline.royaldream.royaldreamslot.braziliii&gl=id"
     },
     {
       "id": "mygame2",
-      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/22.jpg",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame2"
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/789bingoahmed1/refs/heads/main/Transforming_app_icon_to_promo_202609020524.jpeg",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nustar.nustarph.nustarphcasino.nustarcasinoph.hawikom&gl=ph"
     },
     {
       "id": "mygame3",
